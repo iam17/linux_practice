@@ -4,7 +4,6 @@
 	> Mail: 
 	> Created Time: Mon 12 Jun 2017 01:00:25 AM PDT
  ************************************************************************/
-//#include"sem.h"
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
